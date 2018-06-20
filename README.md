@@ -8,6 +8,42 @@ Server IP Address 13.232.120.119
 
 Hosted site Url [http://13.232.120.119.xip.io/](http://13.232.120.119.xip.io/)
 
+## Grader Password
+
+unix
+
+## Grader Key
+
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpQIBAAKCAQEA0QH02TmzQBZo36thLAN8gbq4LMu/zExSYYUAPbaLayOEEVTO
+ptIHryaN/cqGRVfNamMxexjNuBvl7hDHWapwG5U5CwNkYdiMK2iPrIYl5Hs5BiFs
+bBQsKfBqm2rgL/nYI9hMePcQpVmoDW7iYVd7+bjn2Al+INq/Vro0oq58bfAGzmE6
+WuUUF3oJDSqyaxsnH8yl9VK41sCI1dQwtgfDNwwyz23fKlsJ5R+/ZWjTLYma3P7p
+797ZyzjCD40bmwmJe1fZrEA1UY8Ezr9845m7WrSLZRpwGmAQraKR+aQeb7ww9GqX
+J35pabzFOowIz3ER4ZHWXl8mQRO4zDKxL/h1HQIDAQABAoIBAQDGw5qLfoEGQImJ
+tFzb05DzepOuHjIPYsGxdh+NkO0zfXoaVVGVegXOvtan9ZMNnPt/4kdrLmJtZTKb
+3R8IGbs1sAqoe5haKOrcWTrRMl4U1E6dkumeOuzpEXcAyHndhjfTlt7a5vLQnNvh
+soLdWapQCVWKsTReoEj4fGqUD2XL0ZByznm1vWWQnyVFEtw4sNtHdvdzeqfSsMoo
+S5rUiSTGZfJISPAsSEr+wtQ7jSVpibveWK0L5wHNr6Rs9oNr2+bDBP7TY1hqUeKR
+UFiBMiuC34wO+3tajIPz9OkmrZynaGPhB/0x3znjeJXtshLz8wYG+vNQ+x1ISdY2
+4dWKbYNhAoGBAPbgIPuiwqNcp4EN3gtkBcAG8IF+4Zr91xfxc5LvfVnWzg2JQjaN
+C3RALrKj2sccZCXXUUdiU8S3cBR4WXTtJs/jChQMExEOUcGST/ESUkVo+rvxk7Tz
+b97OLLYaRqFj/8iruW+wD387zO6W0arkufXKS/bWvzrEkDuCBRarfQBFAoGBANi7
+iCckLpGMcywEYDHZySfCFGpg83NRogdSHUgSbDltRumN39Dc7QpUeOa+Yu0+3tO0
+L/O5FBbYQqEcC/u+eocHHv4GMp8yioRY7PtVfAio7rUAOwpvWZVAfx3ix40NfVwy
+rSTx8iq1o3dNpad4Q5L0KYBeE1btwccQ1DoLJor5AoGBAN0ADwa00WDElP6ml1vD
+EpKwo6SJHRVOn7rDXx7uXVyLOrJLaYbEBLjwq90nabZM6Con8o7gqvSy8hahFhPi
+KJh5OpBvrrHaC74paH76U8PnEm4k+IFIW6EtGEF8jDX1+wh9Eee1yGmx8uazBMbj
+MsWhbxdtbosBY8yhvERrB9+xAoGAZySQPjhs5R2XLgqDERZZMc+eUaYEFgxydNNy
+VftWf9nulnXLXyXUtUbQJtfSUp/KAaxN6cpZsimHRA8J8OuMejg8Wp3ud27hFu0P
+Euly1tg2ifMrJeMqGeqQ1FM5rnoN/9OqLNvr6MF6outT+6gzWHtUSN/8ijEqOCdd
+KKZn2FkCgYEAuKGOPPOFtQlIhu8lHZtChQBtSE1fjOSJYoQE6hMzPqMuI4yHHSjR
+tFHjdBzjDAiwyvx00RpKsQf7rDZeuXM9pssuWHAlPbgKt2KYoWoNRsr7H7YLSLSi
+4EKwbs/BHaYnMmt4EjQGlJ2c2ZSuydEvYdEILQDYO6jBpm24N1/zFro=
+-----END RSA PRIVATE KEY-----
+
+
+
 ## How to connect as grader:
   save private key provided in your local machine and run the following command
   ```
