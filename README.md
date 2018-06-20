@@ -291,3 +291,6 @@ sudo apt-get upgrade
    
    `sudo service apache2 restart`
    
+   ### References used
+        https://www.digitalocean.com
+        some git hubs to get an idea 
